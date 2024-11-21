@@ -16,7 +16,7 @@ Optimized for desktop and mobile use.
 ## Technology Stack
 ### Frontend:
 HTML, CSS, JavaScript
-Framework: React.js or Vue.js (Specify based on your project)
+Framework: React.js or Vue.js (Specify based on our project)
 ### Backend:
 Language: Node.js or Python/Django (Specify)33
 Database: MongoDB or PostgreSQL (Specify)
