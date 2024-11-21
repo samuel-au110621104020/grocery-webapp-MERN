@@ -43,7 +43,7 @@ pip install -r requirements.txt
 bash
 Copy code
 npm start
-# or
+ or
 python manage.py runserver
 ### 5.Access the application:
                            Open your web browser and navigate to http://localhost:3000 (or your configured port).
