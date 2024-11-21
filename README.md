@@ -1,5 +1,5 @@
-# Grocery WebApp
-          #### A user-friendly web application designed to streamline the grocery shopping experience.The Grocery WebApp provides users with the ability to create shopping lists, explore product categories, and manage their purchases efficiently.
+# Grocery WebApp :
+                 A user-friendly web application designed to streamline the grocery shopping experience.The Grocery WebApp provides users with the ability to create shopping lists, explore product categories, and manage their purchases efficiently.
 ## Features
 ### User Authentication:
                        Secure login and registration system.
