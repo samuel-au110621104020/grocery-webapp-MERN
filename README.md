@@ -29,7 +29,7 @@ Follow these steps to get a local copy up and running:
 ### 1.Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/grocery-webapp.git
+git clone : https://github.com/samuel-au110621104020/grocery-webapp-MERN.git
 cd grocery-webapp
 ### 2.Install dependencies:
 bash
@@ -73,7 +73,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any inquiries or feedback, please reach out to:
-GitHub: 
+GitHub:  https://github.com/samuel-au110621104020/grocery-webapp-MERN.git
 
 
 
