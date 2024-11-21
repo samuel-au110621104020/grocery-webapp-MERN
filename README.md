@@ -1,18 +1,18 @@
 # Grocery WebApp :
-                 A user-friendly web application designed to streamline the grocery shopping experience.The Grocery WebApp provides users with the ability to create shopping lists, explore product categories, and manage their purchases efficiently.
+A user-friendly web application designed to streamline the grocery shopping experience.The Grocery WebApp provides users with the ability to create shopping lists, explore product categories, and manage their purchases efficiently.
 ## Features
 ### User Authentication:
-                       Secure login and registration system.
+Secure login and registration system.
 ### Shopping List Management:
-                       Create, edit, and delete shopping lists.
+Create, edit, and delete shopping lists.
 ### Product Catalog:
-                 Browse and search for products by category.
+Browse and search for products by category.
 ### Real-Time Pricing:
-                  View up-to-date product prices.
+View up-to-date product prices.
 ### Cart Functionality:
-                   Add, update, or remove items from the cart.
+Add, update, or remove items from the cart.
 ### Responsive Design:
-                    Optimized for desktop and mobile use.
+Optimized for desktop and mobile use.
 ## Technology Stack
 ### Frontend:
 HTML, CSS, JavaScript
@@ -38,7 +38,7 @@ npm install
  or
 pip install -r requirements.txt
 ### 3.Set up the environment:
-                          Create a .env file in the root directory and provide necessary configurations like database credentials, API keys, etc.
+Create a .env file in the root directory and provide necessary configurations like database credentials, API keys, etc.
 ### 4.Run the application:
 bash
 Copy code
@@ -46,24 +46,24 @@ npm start
  or
 python manage.py runserver
 ### 5.Access the application:
-                           Open your web browser and navigate to http://localhost:3000 (or your configured port).
+Open your web browser and navigate to http://localhost:3000 (or your configured port).
 ## Usage
-1.Sign up or log in to your account.
-2.Explore product categories or search for specific items.
-3.Add products to your shopping list or cart.
-4.Manage your shopping list and track your purchases.
+ 1.Sign up or log in to your account.
+ 2.Explore product categories or search for specific items.
+ 3.Add products to your shopping list or cart.
+ 4.Manage your shopping list and track your purchases.
 ## Contributing
 Contributions are welcome! To contribute:
- 1.Fork the repository.
- 2.Create a new branch for your feature:
+  1.Fork the repository.
+  2.Create a new branch for your feature:
 bash
 Copy code
 git checkout -b feature-name
- 3.Commit your changes:
+  3.Commit your changes:
 bash
 Copy code
 git commit -m "Add feature description"
-4.Push to the branch:
+ 4.Push to the branch:
 bash
 Copy code
 git push origin feature-name
